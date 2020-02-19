@@ -1,0 +1,58 @@
+body {
+    font-family: 'Muli', sans-serif;
+    background-color: #0a3d62;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+section {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 70px;
+    width: 250px;
+    border-radius: 1px;
+    margin-left: 600px;
+}
+
+footer {
+    font-style: italic;
+}
+
+#in1 {
+    margin: 10px;
+    border: none;
+    background: none;
+    background-color: #dfe6e9;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#ibtn1 {
+    margin: 10px;
+    background: none;
+    border: none;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px 10px;
+    font-size: 12pt;
+    transition: 0.25s;
+}
+
+#ibtn1:hover {
+    background-color: #2ecc71;
+}
+
+#to1 {
+    border: none;
+    background-color: #dfe6e9;
+    border-radius: 5px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13pt;
+}
